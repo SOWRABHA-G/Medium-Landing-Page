@@ -1,4 +1,4 @@
-# Medium Landing Page
+# Medium-Inspired Landing Page
 
 A responsive landing page inspired by the Medium website, created using HTML and CSS.
 
